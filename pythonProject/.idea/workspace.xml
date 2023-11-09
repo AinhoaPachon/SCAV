@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="37fcf5af-eb2f-4c47-a468-bc0d72ee626b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/GITHUB.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/animal_crossing.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mp2_converter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rgb_yuv.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output_BandW.2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output_BandW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/info/output.jpg.trashinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/info/output_BandW.2.jpg.trashinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/info/output_BandW.jpg.trashinfo" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.idea/P1_video.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/GITHUB.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/animal_crossing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/output.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/output_BandW.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lab1 Video/rgb_yuv.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2Xx7HC4Q3ZvIzEVd8OPfTHbAXHF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/ainhoja/Desktop/SCAV/SCAV/VIdeoDeliverables&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PythonContentEntriesConfigurable&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File&quot;: [
+      &quot;Python&quot;
+    ]
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="37fcf5af-eb2f-4c47-a468-bc0d72ee626b" name="Changes" comment="" />
+      <created>1699558786945</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699558786945</updated>
+    </task>
+    <servers />
+  </component>
+</project>
