@@ -15,10 +15,12 @@ class BBB:
         os.system(command)
         command = "ffmpeg -i " + name + " -c:a libfdk_aac -b:a 128k " + outputName + "AAC.mp4"
 
-    def histogram(self, name):
+    def histogram(name):
         command = f"ffmpeg -i " + name + " -vf 'split=2[a][b], " \
                   f"[b]histogram=display_mode=overlay, format=yuva444p[hh]," \
                   f"[a][hh]overlay=x=0:y=0' BBBHistogram.mp4"
         os.system(command)
 
+BBB.video_info("BBB.mp4")
 BBB.exercise2("BBB.mp4", "BBB50")
+BBB.histogram("BBB.mp4")

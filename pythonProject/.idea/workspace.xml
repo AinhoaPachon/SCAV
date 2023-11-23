@@ -5,11 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37fcf5af-eb2f-4c47-a468-bc0d72ee626b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GITHUB.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/animal_crossing.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mp2_converter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rgb_yuv.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output_BandW.2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output_BandW.jpg" beforeDir="false" />
@@ -28,6 +23,11 @@
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/output.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/output_BandW.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/rgb_yuv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mp2_converter.py" beforeDir="false" afterPath="$PROJECT_DIR$/mp2_converter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar2.py" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
