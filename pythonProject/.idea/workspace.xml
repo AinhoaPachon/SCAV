@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="37fcf5af-eb2f-4c47-a468-bc0d72ee626b" name="Changes" comment="">
+    <list default="true" id="37fcf5af-eb2f-4c47-a468-bc0d72ee626b" name="Changes" comment="Calls to functions missing added (sorry)">
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output_BandW.2.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Lab1 Video/.Trash-1000/files/output_BandW.jpg" beforeDir="false" />
@@ -68,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1699558786945</updated>
     </task>
+    <task id="LOCAL-00001" summary="Calls to functions missing added (sorry)">
+      <option name="closed" value="true" />
+      <created>1700701886880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700701886880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Calls to functions missing added (sorry)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Calls to functions missing added (sorry)" />
   </component>
 </project>
